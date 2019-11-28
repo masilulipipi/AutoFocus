@@ -1,0 +1,10 @@
+C:\Users\ar00090132\source\repos\AutoFocus\AutoFocus\bin\Debug\AutoFocus.exe.config
+C:\Users\ar00090132\source\repos\AutoFocus\AutoFocus\bin\Debug\AutoFocus.exe
+C:\Users\ar00090132\source\repos\AutoFocus\AutoFocus\bin\Debug\AutoFocus.pdb
+C:\Users\ar00090132\source\repos\AutoFocus\AutoFocus\obj\Debug\AutoFocus.csprojAssemblyReference.cache
+C:\Users\ar00090132\source\repos\AutoFocus\AutoFocus\obj\Debug\AutoFocus.Form1.resources
+C:\Users\ar00090132\source\repos\AutoFocus\AutoFocus\obj\Debug\AutoFocus.Properties.Resources.resources
+C:\Users\ar00090132\source\repos\AutoFocus\AutoFocus\obj\Debug\AutoFocus.csproj.GenerateResource.cache
+C:\Users\ar00090132\source\repos\AutoFocus\AutoFocus\obj\Debug\AutoFocus.csproj.CoreCompileInputs.cache
+C:\Users\ar00090132\source\repos\AutoFocus\AutoFocus\obj\Debug\AutoFocus.exe
+C:\Users\ar00090132\source\repos\AutoFocus\AutoFocus\obj\Debug\AutoFocus.pdb
